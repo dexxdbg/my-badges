@@ -1,6 +1,10 @@
 {
   "802521064059305984": [
     {
+      "tooltip": "you got purified there is no escape",
+      "badge": "https://polaarity.xyz/icons/photo_2026-04-01_20-29-24.jpg"
+    },
+    {
       "tooltip": "фуряга ебаный",
       "badge": "https://polaarity.xyz/icons/ico1.png"
     },
@@ -13,6 +17,10 @@
     {
       "tooltip": "yep подписатся",
       "badge": "https://polaarity.xyz/icons/16bb40440b16994aabd587cdfa7e9ecc.webp"
+    },
+    {
+      "tooltip": "зато музыка прикольная",
+      "badge": "https://polaarity.xyz/icons/Discord_L7SLWmcAqo.png"
     },
     {
       "tooltip": "шахматист",
